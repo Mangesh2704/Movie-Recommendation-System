@@ -112,3 +112,4 @@ Here are our group members:
 - Special thanks to [TMDb](https://www.themoviedb.org/) for providing the movie dataset.
 - Inspiration and guidance from various online tutorials and resources.
 
+Live Demo: https://movie-recommendation-system27.streamlit.app/
